@@ -6,7 +6,7 @@
 <a href="https://nanifood.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
-<a href="https://kimnambin.github.io/kimnambin/">
+<a href="https://kimnambin.github.io/">
 <img src="https://img.shields.io/badge/MY WEB%20-0078D4?style=for-the-badge&logo=Internet%20Explorer&logoColor=white">
 </a>
 <a href="https://www.notion.so/3fb9d89f55274b7eb9583599685bdfda?v=eccc8150bdd448f18deae5f72a154449">
