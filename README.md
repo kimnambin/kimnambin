@@ -16,9 +16,11 @@
 <hr>
 
 <p>📊통계</p>
-<img src ="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 [![kimnambin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnambin&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kimnambin/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnambin&layout=compact" height="194px">
+
+
 <hr>
 <p>🧑‍💻사용기술</p>
 <div class= "contanier" style="display:flex; flex-direction:row;">
